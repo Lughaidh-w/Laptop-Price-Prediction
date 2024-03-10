@@ -3,6 +3,7 @@
 
 ![Laptop Banner](assets/laptop-banner.jpg)
 
+# Introduction
 The following project explores a dataset of laptop prices.
 
 This project highlights my skills in 
