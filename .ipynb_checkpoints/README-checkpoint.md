@@ -12,6 +12,7 @@ This project highlights my skills in
 - Modelling: Selecting appropriate model, model refinement and evaluation.
 - Visualisation:
 - Communication: Clear and consice rational, code comments.
+- Coding: Python
 
 
 ## Data
@@ -19,10 +20,11 @@ This project highlights my skills in
 The dataset was sourced on kaggle. It has some features that seem naturally related to laptop prices, but need signal extracted.
 
 
+## Project Overview
 
+This project is completed under the cyclic framework of CRISP-DM in Jupyter Lab. 
+Jupyter notebooks enforces a linear progression, and some ideas are seemingly skipped to be rekindled later.
 
+## Business Objective
 
-
-
-
-## Re
+Given a dataset of laptop attributes, can laptop price be predicted.
